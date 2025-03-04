@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sachin Kumar
-- 👀 I’m interested in all type of tech.
-- 🌱 I’m currently learning best things in the tech.
-- 💞️ I’m looking to collaborate on my lattest project
+- 👀 I’m interested in all types of tech.
+- 🌱 I’m currently learning the best things in tech.
+- 💞️ I’m looking to collaborate on my latest project
 - 📫 How to reach me sachhu007sk@gmail.com
-
